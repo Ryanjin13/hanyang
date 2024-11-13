@@ -3,6 +3,6 @@
 int main(){
 	print("hello git\n");
 	print("hello intel\n");
-	print("Korea'n");
+	PRINT("Korea'n");
 	return 0;
 }
